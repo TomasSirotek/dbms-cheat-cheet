@@ -13,3 +13,4 @@
 		- interect - select both rows that choses where table.name = 'tomas'
 		- union - select either subject 
 		- except - select row where table.name = 'tomas' but not 'adam'
+**Grouping**

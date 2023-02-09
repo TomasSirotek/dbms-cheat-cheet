@@ -4,7 +4,7 @@ Example table **user**
 
 | Id | LastName  | FirstName | Address   | City      | 
 | :--------| :-------- | :-------- | :-------- | :-------- |
-|    1     |  Peterson |  Adam     |           |           | 
+|    1     |  Peterson |  Adam     |   Empty Street       |   Prague        | 
 
 ******
 #### SELECT 
@@ -31,6 +31,7 @@ SELECT * FROM user;
 More examples in practice 
 #classExamples  
  - [ClassExamplesWeek5](classExamples/week-5)
+ - [ClassExamplesWeek6](classExamples/week-6)
 
 #### SELECT DISTINCT
 Return only disctinct (different) values.
