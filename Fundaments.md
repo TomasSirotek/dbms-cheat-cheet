@@ -2,7 +2,7 @@
 #Fundaments #Starting-point
 
 #### Table of content 
-
+Main Content 
  - [Terminology](DBMS-terminology.md)
  
  - [Tools-software](Tools-software.md)
@@ -12,6 +12,9 @@
  * [Pattern-matching](Pattern-matching.md)
  * [Tuples-attributes](Patern-matching.md)
  * [SQL-parts](Patern-matching.md)
+
+Resourcers 
+	[W3Schools](https://www.w3schools.com/SQl/sql_and_or.asp)
  
 #### Data & Databases
 
