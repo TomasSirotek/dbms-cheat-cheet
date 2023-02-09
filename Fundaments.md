@@ -1,5 +1,18 @@
 ******
+#Fundaments #Starting-point
 
+#### Table of content 
+
+ - [Terminology](DBMS-terminology.md)
+ 
+ - [Tools-software](Tools-software.md)
+ * [Table-creation](Table-operations.md)
+ * [Basic-statements](Basic-statements.md)
+ * [Databases](databases/mariandb.md)
+ * [Pattern-matching](Pattern-matching.md)
+ * [Tuples-attributes](Patern-matching.md)
+ * [SQL-parts](Patern-matching.md)
+ 
 #### Data & Databases
 
 - Data
@@ -22,6 +35,11 @@
 	* Organizing stored data in table and having relations between data 
 	* MySQL,Postgres,MSSQL,Oracle database ...
 
+#### Dialects / Syntax
+#Dialects #NOTFinished
+
+* Fill here info about dialects 
+
 #### Schema architecture 
 
 - **External Schema(s)**
@@ -32,7 +50,7 @@
 - **Internal Schema** 
 	- The internal schema uses a physical data model and describes the complete details of data storage and access paths for the database.
 
-![ ](assets/schema-arch.png)
+![schema|300](assets/schema-arch.png)
 
 #### Data Independency 
 - **Logical Data Independency**
@@ -43,13 +61,6 @@
 	- Typically totally transparent in modern DBMS’s.
 
 
-#### Fundamental components 
 
- - [Tools-software](Patern-matching.md)
- * [Table-creation](Patern-matching.md)
- * [Basic-statements](Basic-statements.md)
- * [Pattern-matching](Pattern-matching.md)
- * [Tuples-attributes](Patern-matching.md)
- * [SQL-parts](Patern-matching.md)
   
   
