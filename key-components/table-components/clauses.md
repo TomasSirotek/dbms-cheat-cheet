@@ -10,6 +10,8 @@ FROM _table_name_
 WHERE _condition1_ AND _condition2_ AND _condition3 ..._;
 ```
 
+---
+
 ### OR
 #operator 
 
@@ -21,6 +23,8 @@ FROM _table_name_
 WHERE _condition1_ AND _condition2_ AND _condition3 ..._;
 ```
 
+-----
+
 ### NOT
 #operator 
 
@@ -31,7 +35,6 @@ SELECT _column1_, _column2, ..._
 FROM _table_name_  
 WHERE _condition1_ AND _condition2_ AND _condition3 ..._;
 ```
-
 
 *****
 
@@ -56,11 +59,9 @@ _WHERE _condition_
 LIMIT _number_;
 ```
 
-
 *****
 
 #NOTFinished 
-
 
 ### Sub-query in the FROM-clause
 

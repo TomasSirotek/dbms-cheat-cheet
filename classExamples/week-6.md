@@ -1,8 +1,5 @@
 ****
 
-
-##### DO MORE EXAMPLES FROM THAT WEEK
-
 ```sql
 
 SELECT *

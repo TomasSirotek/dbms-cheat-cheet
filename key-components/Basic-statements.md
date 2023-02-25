@@ -4,7 +4,7 @@ Example table **user**
 
 | Id | LastName  | FirstName | Address   | City      | 
 | :--------| :-------- | :-------- | :-------- | :-------- |
-|    1     |  Peterson |  Adam     |   Empty Street       |   Prague        | 
+|    1     |  Peterson |  Jordan     |   Empty Street       |   Prague        | 
 
 ******
 #### SELECT 
@@ -12,6 +12,7 @@ More about select
 #clauses 
 *  [Clauses](table-components/clauses)
 *  [Joins](table-components/joins)
+*  [Aggregates](table-components/aggregates)
 
 Basic select statements to select **Id** and **FirstName** from table **user**
 

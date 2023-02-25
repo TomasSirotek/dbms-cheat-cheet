@@ -5,17 +5,21 @@
 Main Content 
 
  - [Terminology](DBMS-terminology.md)
- 
  - [Tools-software](Tools-software.md)
+ - [Design-patterns](design-patterns-index.md)
+ 
  * [Table-creation](Table-operations.md)
  * [Basic-statements](Basic-statements.md)
  * [Databases](databases/mariandb.md)
  * [Pattern-matching](Pattern-matching.md)
- * [Tuples-attributes](Patern-matching.md)
+ * [Aggregates](aggregates.md)
+ * [Joins](joins.md)
+ * [Clauses](clauses.md)
  * [SQL-parts](Patern-matching.md)
 
 Resourcers 
 	[W3Schools](https://www.w3schools.com/SQl/sql_and_or.asp)
+	[JavaPoint](https://www.javatpoint.com/dbms-sql-joins) 
  
 #### Data & Databases
 
