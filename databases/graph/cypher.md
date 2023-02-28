@@ -109,3 +109,6 @@ MATCH (player:PLAYER)
 WHERE (player.weight / (player.height * player.height)) > 25
 RETURN player
 ```
+
+
+Filtering with **AND** and **>=** or ****
