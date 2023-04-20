@@ -9,6 +9,7 @@ Create statement to create **new database** by name
 ******
 #### Create table 
 
+
 ```sql
 
 CREATE TABLE _table_name_ (  
